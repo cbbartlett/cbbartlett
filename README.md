@@ -10,8 +10,8 @@ I'm a backend developer. I enjoy learning about languages and frameworks such as
 </div>
 
 ##
-#### 🧰 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,nodejs,svelte,django,mongodb,mysql,postgres)](https://skillicons.dev)
+#### 🧰 Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,nodejs,git,linux,svelte,django,mongodb,mysql,postgres)](https://skillicons.dev)
 ##
 #### 📊 Stats
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbbartlett&theme=shadow_blue&show_icons=true)
