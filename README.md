@@ -7,7 +7,7 @@ I'm a backend developer. I enjoy learning about languages and frameworks such as
 </div>
 
 ##
-#### 🧰 Languages & Tools
+#### 🧰 Languages & Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,nodejs,svelte,django,bash,git,linux,mongodb,mysql,postgres)](https://skillicons.dev)
 ##
 #### 📊 Stats
