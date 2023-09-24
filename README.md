@@ -4,9 +4,6 @@ I'm a backend developer. I enjoy learning about languages and frameworks such as
   <a href="https://www.linkedin.com/in/christopher-bartlett-321b8324a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://gitlab.com/cbbartlett">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
-  </a>
 </div>
 
 ##
