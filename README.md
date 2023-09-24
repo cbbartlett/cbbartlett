@@ -11,7 +11,7 @@ I'm a backend developer. I enjoy learning about languages and frameworks such as
 
 ##
 #### 🧰 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,nodejs,svelte,django,bash,git,linux,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,emacs,neovim,python,nodejs,svelte,django,bash,git,linux,mongodb,mysql,postgres)](https://skillicons.dev)
 ##
 #### 📊 Stats
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbbartlett&theme=shadow_blue&show_icons=true)
