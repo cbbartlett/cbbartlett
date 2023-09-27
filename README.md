@@ -12,3 +12,5 @@ I'm a backend developer. I enjoy learning about languages and frameworks such as
 ##
 #### 📊 Stats
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbbartlett&theme=shadow_blue&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbbartlett&theme=shadow_blue&layout=compact)
