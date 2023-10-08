@@ -7,9 +7,6 @@ I enjoy learning about languages and frameworks such as Node.js and Django.
 </div>
 
 ##
-#### 🧰 Languages & Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,bootstrap,nodejs,svelte,django,bash,git,linux,mongodb,mysql,postgres)](https://skillicons.dev)
-##
 #### 📊 Stats
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbbartlett&theme=shadow_blue&show_icons=true)
 
