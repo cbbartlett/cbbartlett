@@ -4,11 +4,7 @@
 - 🐧 I love the Tux
 - 🌐 Interested in Web Development
 ## Social
-<div id="badges">
-  <a href="https://www.linkedin.com/in/christopher-bartlett/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 ## Stats
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbbartlett&theme=shadow_blue&show_icons=true)
