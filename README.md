@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hello, I'm Christopher
-- 🌱 I'm always learning somethig new
+- 🌱 I'm always learning something new
 - 🐧 I love the Tux
 - 🌐 Interested in Web Development
 
