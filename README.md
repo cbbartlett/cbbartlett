@@ -3,7 +3,7 @@
 - 🌱 I'm always learning somethig new
 - 🐧 I love the Tux
 - 🌐 Interested in Web Development
-## Connect with me
+## Social
 <div id="badges">
   <a href="https://www.linkedin.com/in/christopher-bartlett-321b8324a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
