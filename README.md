@@ -5,6 +5,4 @@ I am currently learning about Full-Stack Web Development. I enjoy learning about
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbbartlett&theme=shadow_blue&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
--- -
 
-### Feel free to check out my repos! 👇
